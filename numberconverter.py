@@ -1,6 +1,4 @@
-# add thousands
-# add negative numbers
-#organize in functions
+
 
 ones = {1:"one",
 2:"two",
